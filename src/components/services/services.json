@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "img": "ico08.png",
+      "title": "Implantes",
+      "description": "Primero se coloca el implante, de modo que sea probable que se osteointegre, luego se agrega una prótesis dental.",
+      "animation": "animate__backInLeft"
+    },
+    {
+      "id": 2,
+      "img": "ico06.png",
+      "title": "Extracciones",
+      "description": "Se realiza bajo anestesia local para minimizar el dolor. Después de adormecer el área, el diente se extrae con pinzas dentales especiales.",
+      "animation": "animate__backInDown"
+    },
+    {
+      "id": 3,
+      "img": "ico03.png",
+      "title": "Limpieza",
+      "description": "loreafdasfqwef efadafds dsfdsfeqwrf asdf asfaf a",
+      "animation": "animate__backInRight"
+    },
+    {
+      "id": 4,
+      "img": "ico04.png",
+      "title": "Cirugía",
+      "description": "loreafdasfqwef efadafds dsfdsfeqwrf asdf asfaf a",
+      "animation": "animate__backInLeft"
+    },
+    {
+      "id": 5,
+      "img": "ico05.png",
+      "title": "Limpieza",
+      "description": "loreafdasfqwef efadafds dsfdsfeqwrf asdf asfaf a",
+      "animation": "animate__backInUp"
+    },
+    {
+      "id": 6,
+      "img": "ico07.png",
+      "title": "Limpieza",
+      "description": "loreafdasfqwef efadafds dsfdsfeqwrf asdf asfaf a",
+      "animation": "animate__backInRight"
+    }
+  ]
+}
