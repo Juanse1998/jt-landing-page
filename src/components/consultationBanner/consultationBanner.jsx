@@ -2,7 +2,7 @@ import React from 'react';
 
 const ConsultationBanner = () => {
   return (
-    <div className="bg-gradient-to-r from-pink-300 to-blue-200 p-8 flex flex-col md:flex-row items-center">
+    <div className="bg-gradient-to-r bg-custom-pink to-blue-100 p-8 flex flex-col md:flex-row items-center">
       <div className="flex justify-center md:justify-start w-full md:w-auto mb-4 md:mb-0 ml-16v ">
         <img src="./smilepng05.png" alt="Consulta Online" className="w-48 h-auto md:w-96 drop-shadow-2xl " />
       </div>
