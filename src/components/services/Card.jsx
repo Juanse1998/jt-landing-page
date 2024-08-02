@@ -2,7 +2,7 @@ import React from 'react';
 
 const Card = (props) => {
   return (
-    <div className="bg-white shadow-lg rounded-lg overflow-hidden transform transition-transform hover:scale-105 hover:shadow-xl w-64 h-68 max-w-xs mx-auto">
+    <div className="bg-aliceblue shadow-pink-medium rounded-lg overflow-hidden transform transition-transform hover:scale-105 hover:shadow-xl w-64 h-68 max-w-xs mx-auto">
       <div className="p-4 flex justify-center">
         <img className="h-24 rounded-t-lg" width={90} src={props.services.img} alt={props.services.title} />
       </div>
