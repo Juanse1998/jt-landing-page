@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className='flex flex-col'>
+    <div className=' flex-col'>
       <Nav/>
       <Header/>
       <Jobs/>
