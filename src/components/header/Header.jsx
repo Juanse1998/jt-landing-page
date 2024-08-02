@@ -4,7 +4,7 @@ import './Header.css';
 
 const Header = () => {
   const [scrollY, setScrollY] = useState(0);
-  const scrollLimit = 140;
+  const scrollLimit = 210;
 
   const handleScroll = () => {
     const newScrollY = window.scrollY;
@@ -28,15 +28,15 @@ const Header = () => {
           <p className="text-sm md:text-base lg:text-lg mb-6">
             Cuidamos tu sonrisa con los mejores tratamientos
           </p>
-          <button className="bg-pink-600 hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+          <button className="bg-custom-pink hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
             Agenda una consulta
           </button>
         </div>
         <div className="mt-8 md:mt-0 flex flex-col md:flex-row items-center justify-center w-full md:w-6/12 lg:w-7/12">
-          <div className="contenedor flex items-center mb-4 md:mb-0">
+          <div className="contenedor flex items-center mb-4 md:mb-0 mr-14">
             <img src="./img-header-1.png" alt="imagen diente" className="imagen-diente w-24 md:w-32 lg:w-40 max-w-full" />
           </div>
-          <div className=" flex flex-col items-center md:items-start">
+          <div className="flex flex-col items-center md:items-start">
             <img
               src="./img-header2.png"
               alt="imagen diente"

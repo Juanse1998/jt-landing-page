@@ -29,7 +29,7 @@ const Nav = () => {
         </nav>
       </div>
       <div className="mr-10">
-        <button className="text-l bg-pink-600 hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+        <button className="text-l bg-custom-pink hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
           Agenda una consulta
         </button>
       </div>
