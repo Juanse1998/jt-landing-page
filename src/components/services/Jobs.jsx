@@ -4,7 +4,7 @@ import Card from './Card';
 
 const Jobs = () => {
   return (
-    <div className="bg-white py-20">
+    <div className="bg-blue-200 py-20">
       <div className="flex justify-center mb-12">
         <div className="text-center mr-4">
           <section className="text-3xl font-bold text-white-200">

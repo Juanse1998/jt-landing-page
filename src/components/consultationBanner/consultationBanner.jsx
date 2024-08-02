@@ -14,20 +14,14 @@ const ConsultationBanner = () => {
 
       {/* Texto */}
       <div className="flex flex-col items-center md:items-start space-y-4 w-full md:w-1/2 text-center md:text-left">
-        <h1 className="text-2xl md:text-5xl font-bold text-white">
+        <h1 className="text-2xl md:text-5xl font-bold text-white" style={{ textShadow: '2px 1px 9px pink'}}>
           CONSULTA GRATUITA ONLINE
         </h1>
-        <p className="text-lg md:text-xl text-gray-700">
-          Con nuestra doctora
-        </p>
         <div className="flex space-x-4 justify-center md:justify-start">
-          <a href="#" className="text-3xl text-gray-900 hover:text-gray-600">
-            <i className="fab fa-instagram"></i>
-          </a>
-          <a href="#" className="text-3xl text-gray-900 hover:text-gray-600">
-            <i className="fas fa-phone-alt"></i>
-          </a>
-          <a href="#" className="text-3xl text-gray-900 hover:text-gray-600">
+          <p className="text-lg md:text-xl text-gray-700 font-semibold mt-1">
+            Con nuestra doctora
+          </p>
+          <a href="#" className="text-3xl text-white hover:text-gray-600">
             <i className="fab fa-whatsapp"></i>
           </a>
         </div>
