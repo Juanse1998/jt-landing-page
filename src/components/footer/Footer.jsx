@@ -3,7 +3,9 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaGithub, FaYoutube, FaLinkedin } 
 
 const Footer = () => {
   return (
-    <footer className="bg-gradient-to-r from-blue-500 shadow rounded h-40 pt-10 mt-20">
+    <footer className="shadow rounded h-40 pt-10 mt-20"
+    style={{backgroundImage: "url('/footerBg.svg')",  backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundAttachment: 'scroll',   backgroundPosition: '20% 80%', }}
+    >
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between ">
         <div className="flex">
           <p className="flex items-center text-black-500 font-bold">© 2024 JT Odontologia. Todos los derechos reservados.</p>
