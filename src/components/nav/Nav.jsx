@@ -11,17 +11,17 @@ const Nav = () => {
         <nav>
           <ul className="flex space-x-6 font-medium">
             <li>
-              <a className="hover:text-gray-300 transition duration-300" href="#">
+              <a className="hover:text-gray-300 transition duration-300" href="/">
                 Inicio
               </a>
             </li>
             <li>
-              <a className="hover:text-gray-300 transition duration-300" href="#">
+              <a className="hover:text-gray-300 transition duration-300" href="#services">
                 Servicios
               </a>
             </li>
             <li>
-              <a className="hover:text-gray-300 transition duration-300" href="#">
+              <a className="hover:text-gray-300 transition duration-300" href="#contact">
                 Contacto
               </a>
             </li>
