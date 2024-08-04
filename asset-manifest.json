@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jt-landing-page/static/css/main.e85add00.css",
+    "main.js": "/jt-landing-page/static/js/main.9ce7c4ab.js",
+    "static/js/453.c80bf21c.chunk.js": "/jt-landing-page/static/js/453.c80bf21c.chunk.js",
+    "static/media/fa-solid-900.ttf": "/jt-landing-page/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/imgHead.png": "/jt-landing-page/static/media/imgHead.eb986eb1ec56b8a61be6.png",
+    "static/media/fa-brands-400.ttf": "/jt-landing-page/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/jt-landing-page/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/jt-landing-page/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/logoDiente.png": "/jt-landing-page/static/media/logoDiente.22fed8c06911b622bb35.png",
+    "static/media/fa-regular-400.ttf": "/jt-landing-page/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/jt-landing-page/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/jt-landing-page/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/jt-landing-page/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/jt-landing-page/index.html",
+    "main.e85add00.css.map": "/jt-landing-page/static/css/main.e85add00.css.map",
+    "main.9ce7c4ab.js.map": "/jt-landing-page/static/js/main.9ce7c4ab.js.map",
+    "453.c80bf21c.chunk.js.map": "/jt-landing-page/static/js/453.c80bf21c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e85add00.css",
+    "static/js/main.9ce7c4ab.js"
+  ]
+}
