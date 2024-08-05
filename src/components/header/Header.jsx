@@ -35,7 +35,7 @@ const Header = () => {
         </div>
         <div className="mt-8 md:mt-0 flex flex-col md:flex-row items-center justify-center w-full md:w-6/12 lg:w-7/12">
           <div className="contenedor flex items-center mb-4 md:mb-0 mr-14">
-            <img src="./img-header-1.png" alt="imagen diente" className="imagen-diente w-24 md:w-32 lg:w-40 max-w-full"
+            <img src="/images/imgHeader1.png" alt="imagen diente" className="imagen-diente w-24 md:w-32 lg:w-40 max-w-full"
             style={{filter: 'drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5))'}} />
           </div>
           <div className="flex flex-col items-center md:items-start">

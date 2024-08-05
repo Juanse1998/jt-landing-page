@@ -12,7 +12,7 @@ const Contact = () => {
           <div className="md:flex-1 bg-pink-50 p-6 rounded-lg shadow-lg">
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">Información de Contacto</h2>
             <h4 className="text-gray-700 mb-4">
-              <strong>Dra. Jorgelina Torres</strong>
+              <strong>Dr Juan Sosa</strong>
             </h4>
             <p className="text-gray-700 mb-4">
               <strong>Dirección:</strong> Calle Ficticia 123, Ciudad, País
