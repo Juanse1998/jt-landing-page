@@ -6,7 +6,7 @@ const ConsultationBanner = () => {
       {/* Imagen */}
       <div className="flex justify-center md:justify-start w-full md:w-1/2 mb-4 md:mb-0">
         <img
-          src="./smilepng05.png"
+          src={process.env.PUBLIC_URL + "/images/smilepng05.png"}
           alt="Consulta Online"
           className="w-48 h-auto md:w-96 drop-shadow-2xl"
         />
