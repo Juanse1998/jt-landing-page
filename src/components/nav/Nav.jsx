@@ -1,11 +1,10 @@
 import React from 'react';
-import logoDiente from './logoDiente.png';
 
 const Nav = () => {
   return (
     <div className="section-nav flex fixed w-full justify-between items-center h-20 bg-gradient-to-r from-blue-500 to-purple-600 text-white shadow-lg z-50">
       <div className="section-logo flex items-center ml-10">
-        <img src={logoDiente} alt="Logo Diente" width={50} className="drop-shadow-2xl" />
+        <img src={process.env.PUBLIC_URL + "/images/logoDiente.webp"} alt="Logo Diente" width={50} className="drop-shadow-2xl" />
       </div>
       <div className="section-ref hidden md:flex ml-10">
         <nav>

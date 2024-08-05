@@ -2,44 +2,44 @@
   "services": [
     {
       "id": 1,
-      "img": "images/ico06.png",
+      "img": "images/ico08.webp",
       "title": "Implantes",
       "description": "Primero se coloca el implante, de modo que sea probable que se osteointegre, luego se agrega una prótesis dental.",
       "animation": "animate__backInLeft"
     },
     {
       "id": 2,
-      "img": "images/ico06.png",
+      "img": "images/ico03.webp",
       "title": "Extracciones",
       "description": "Se realiza bajo anestesia local para minimizar el dolor. Después de adormecer el área, el diente se extrae con pinzas dentales especiales.",
       "animation": "animate__backInDown"
     },
     {
       "id": 3,
-      "img": "images/ico03.png",
+      "img": "images/ico01.webp",
       "title": "Limpieza",
       "description": "Se usa un escalador para limpiar los dientes y debajo de las encías. Luego, se pule con una pasta abrasiva para suavizar y eliminar manchas. Finalmente, se aplica flúor para fortalecer el esmalte.",
       "animation": "animate__backInRight"
     },
     {
       "id": 4,
-      "img": "images/ico04.png",
+      "img": "images/ico04.webp",
       "title": "Cirugía",
       "description": "Se realiza bajo anestesia local para adormecer el área. El procedimiento implica hacer una incisión si es necesario, y luego se extraen o reparan los dientes",
       "animation": "animate__backInLeft"
     },
     {
       "id": 5,
-      "img": "images/ico05.png",
-      "title": "Limpieza",
-      "description": "loreafdasfqwef efadafds dsfdsfeqwrf asdf asfaf a",
+      "img": "images/ico05.webp",
+      "title": "Blanqueamiento",
+      "description": "Se realiza utilizando geles blanqueadores aplicados a los dientes. Primero, se protege encías y tejidos blandos. Luego, se aplica el gel blanqueador y se activa con luz especial o calor. El procedimiento elimina manchas y aclara el color de los dientes, logrando un tono más brillante.",
       "animation": "animate__backInUp"
     },
     {
       "id": 6,
-      "img": "images/ico07.png",
-      "title": "Limpieza",
-      "description": "loreafdasfqwef efadafds dsfdsfeqwrf asdf asfaf a",
+      "img": "images/ico07.webp",
+      "title": "Chequeo general",
+      "description": "Se revisan dientes, encías y tejidos orales para detectar caries, enfermedades periodontales y otros problemas. También se realizan radiografías si es necesario para una evaluación más detallada y se ofrece un plan de tratamiento y recomendaciones para el cuidado dental.",
       "animation": "animate__backInRight"
     }
   ]

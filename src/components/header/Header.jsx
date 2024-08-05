@@ -35,17 +35,17 @@ const Header = () => {
         </div>
         <div className="mt-8 md:mt-0 flex flex-col md:flex-row items-center justify-center w-full md:w-6/12 lg:w-7/12">
           <div className="contenedor flex items-center mb-4 md:mb-0 mr-14">
-            <img src={process.env.PUBLIC_URL + "/images/imgHeader1.png"} alt="imagen diente" className="imagen-diente w-24 md:w-32 lg:w-40 max-w-full"
+            <img src={process.env.PUBLIC_URL + "/images/imgHeader1.webp"} alt="imagen diente" className="imagen-diente w-24 md:w-32 lg:w-40 max-w-full"
             style={{filter: 'drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5))'}} />
           </div>
           <div className="flex flex-col items-center md:items-start">
             <img
-              src={process.env.PUBLIC_URL + "/images/imgHeader2.png"}
+              src={process.env.PUBLIC_URL + "/images/imgHeader2.webp"}
               alt="imagen diente"
               style={{ transform: `translateY(${scrollY * 0.4}px)`, filter: 'drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5))' }}
               className="w-24 md:w-32 lg:w-40 max-w-full mb-4 md:mb-0 z-10"
             />
-            <img src={process.env.PUBLIC_URL + "/images/imgHeader3.png"} alt="imagen diente" className="imagen-diente w-24 md:w-32 lg:w-40 max-w-full"
+            <img src={process.env.PUBLIC_URL + "/images/imgHeader3.webp"} alt="imagen diente" className="imagen-diente w-24 md:w-32 lg:w-40 max-w-full"
             style={{filter: 'drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5))'}} />
           </div>
         </div>
