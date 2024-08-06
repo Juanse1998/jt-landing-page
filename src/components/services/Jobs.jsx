@@ -1,10 +1,12 @@
 import React from 'react';
 import data from './services.json';
 import Card from './Card';
+import './Styles.css';
+
 
 const Jobs = () => {
   return (
-    <div id="services" className="bg-white-600 py-20">
+    <div id="services" className="bg-white-600 py-20 header-blur">
       <div className="flex justify-center mb-12">
         <div className="text-center mr-4">
           <section className="text-3xl font-bold text-white-200">

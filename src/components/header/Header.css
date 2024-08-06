@@ -1,3 +1,13 @@
+.title-header {
+  font-family: "Mooli", sans-serif;
+  line-height: 3.5rem !important;
+}
+
+.header-blur {
+  position: relative;
+  overflow: hidden;
+}
+
 @media screen and (max-width: 600px){
   .contenedor {
     display: none;

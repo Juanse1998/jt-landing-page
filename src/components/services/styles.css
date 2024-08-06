@@ -1,3 +1,10 @@
+.header-blur {
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 85px #e0e0e0;
+}
+
 .card {
-  /* margin-left: -50px; */
+  filter: drop-shadow(12px 8px 9px pink);
+  border: 1px 1px 1px 5px black !important;
 }

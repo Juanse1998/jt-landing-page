@@ -22,7 +22,7 @@ const Header = () => {
     <header className="bg-gradient-to-r from-blue-600 text-white py-10 md:py-20 relative overflow-hidden fixed w-full" style={{ minHeight: '550px' }}>
       <div className="container mx-auto flex flex-col md:flex-row items-center px-4 mt-20">
         <div className="flex flex-col items-center md:items-start md:ml-20 w-full md:w-6/12 lg:w-5/12 text-center md:text-left">
-          <h2 className="text-2xl md:text-3xl lg:text-4xl font-extrabold mb-4" style={{ textShadow: '2px 1px 1px black'}}>
+          <h2 className="title-header text-2xl md:text-3xl lg:text-4xl font-extrabold mb-4" style={{ textShadow: '2px 1px 1px black'}}>
             SONRISAS SALUDABLES Y FELICES COMIENZAN AQUÍ
             {/* Servicios Odontológicos de Calidad */}
           </h2>

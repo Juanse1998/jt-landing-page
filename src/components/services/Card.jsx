@@ -1,8 +1,10 @@
 import React from 'react';
+import './Styles.css';
+
 
 const Card = (props) => {
   return (
-    <div className="bg-white shadow-pink-medium rounded-lg overflow-hidden transform transition-transform hover:scale-105 hover:shadow-xl w-64 h-68 max-w-xs mx-auto">
+    <div className="card bg-white shadow-pink-medium rounded-lg overflow-hidden transform transition-transform hover:scale-105 hover:shadow-xl w-64 h-68 max-w-xs mx-auto">
       <div className="p-4 flex justify-center">
         <img className="rounded-full border-4 border-pink-300 object-cover" width={110} src={`${process.env.PUBLIC_URL}/${props.services.img}`} alt={props.services.title} />
       </div>
