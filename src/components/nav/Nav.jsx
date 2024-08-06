@@ -28,9 +28,9 @@ const Nav = () => {
         </nav>
       </div>
       <div className="mr-10">
-        <button className="bg-custom-pink hover:bg-pink-600 text-white py-2 px-4 font-bold rounded-full shadow-lg hover:shadow-2xl transition-shadow duration-300">
+        <a href="#contact" className="bg-custom-pink hover:bg-pink-600 text-white py-2 px-4 font-bold rounded-full shadow-lg hover:shadow-2xl transition-shadow duration-300">
           Agenda una consulta
-        </button>
+        </a>
       </div>
     </div>
   );

@@ -29,9 +29,9 @@ const Header = () => {
           <p className="text-sm md:text-base lg:text-lg mb-6">
             Cuidamos tu sonrisa con los mejores tratamientos
           </p>
-          <button className="bg-custom-pink hover:bg-pink-500 text-white py-2 px-4 font-bold rounded-full shadow-lg hover:shadow-2xl transition-shadow duration-300">
+          <a href="#contact" className="bg-custom-pink hover:bg-pink-500 text-white py-2 px-4 font-bold rounded-full shadow-lg hover:shadow-2xl transition-shadow duration-300">
             Agenda una consulta
-          </button>
+          </a>
         </div>
         <div className="mt-8 md:mt-0 flex flex-col md:flex-row items-center justify-center w-full md:w-6/12 lg:w-7/12">
           <div className="contenedor flex items-center mb-4 md:mb-0 mr-14">
