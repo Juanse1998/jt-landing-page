@@ -4,7 +4,7 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaGithub, FaYoutube, FaLinkedin } 
 const Footer = () => {
   return (
     <footer className="shadow rounded h-40 pt-10 mt-20 bg-gradient-to-r from-blue-300 to-purple-600">
-      <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between ml-10 mr-10">
+      <div className="mx-auto flex flex-col md:flex-row justify-between ml-10 mr-10">
         <div className="flex">
           <p className="flex items-center text-black-500 font-bold">© 2024 JT Odontologia. Todos los derechos reservados.</p>
           {/* <p className="text-xs text-black-500">Desarrollador por Juan Segundo Sosa</p> */}
