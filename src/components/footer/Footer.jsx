@@ -17,9 +17,6 @@ const Footer = () => {
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-white-500 hover:text-gray-700">
             <FaInstagram size={20} />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-white-500 hover:text-gray-700">
-            <FaGithub size={20} />
-          </a>
         </div>
       </div>
     </footer>

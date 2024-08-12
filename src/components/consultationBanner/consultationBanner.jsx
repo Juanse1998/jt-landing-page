@@ -10,6 +10,7 @@ const ConsultationBanner = () => {
           alt="Consulta Online"
           className="w-48 h-auto md:w-96 drop-shadow-2xl"
           style={{
+            maskImage: 'linear-gradient(black 80%, transparent)',
             filter: "drop-shadow(0 0 10px rgba(0, 0, 0, .6))",
             boxShadow: "(0 0 85px #e0e0e0)"
           }}
